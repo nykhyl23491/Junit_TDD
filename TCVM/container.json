@@ -1,0 +1,8 @@
+
+{
+	"teaCapacity": 2000,
+	"coffeeCapacity":2000,
+	"sugarCapacity": 8000,
+	"waterCapacity": 15000,
+	"milkCapacity": 10000
+}
